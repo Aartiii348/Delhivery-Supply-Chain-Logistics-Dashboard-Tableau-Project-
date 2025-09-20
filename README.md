@@ -78,7 +78,6 @@ Business Analytics → KPI definition & insights
 
 🔗 Tableau Dashboard: https://public.tableau.com/app/profile/aarti.somwanshi/viz/DehliveryDashboard_17577603716010/SUPPLYCHAINDASHBOARD
 
-🔗 GitHub Repo: https://github.com/Aartiii348/Delhivery-Supply-Chain-Logistics-Dashboard-Tableau-Project-/edit/main/README.md
-
+🔗 GitHub Repo: https://github.com/Aartiii348/Delhivery-Supply-Chain-Logistics-Dashboard-Tableau-Project-
 
 
